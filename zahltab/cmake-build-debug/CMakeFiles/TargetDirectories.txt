@@ -1,0 +1,3 @@
+D:/Github/INF-B-ProzP-U/02-zahltab/zahltab/cmake-build-debug/CMakeFiles/zahltab.dir
+D:/Github/INF-B-ProzP-U/02-zahltab/zahltab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/INF-B-ProzP-U/02-zahltab/zahltab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
