@@ -1,0 +1,3 @@
+D:/Repos/INF-B-ProzP-U/prozpuebung/Uebung 6/loops/cmake-build-debug/CMakeFiles/loops.dir
+D:/Repos/INF-B-ProzP-U/prozpuebung/Uebung 6/loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/INF-B-ProzP-U/prozpuebung/Uebung 6/loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

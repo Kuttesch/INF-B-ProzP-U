@@ -1,0 +1,3 @@
+/Users/marcelraab/Desktop/ProzPUe/Uebung 8/primzahlen/cmake-build-debug/CMakeFiles/prime-numbers.dir
+/Users/marcelraab/Desktop/ProzPUe/Uebung 8/primzahlen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcelraab/Desktop/ProzPUe/Uebung 8/primzahlen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

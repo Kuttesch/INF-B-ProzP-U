@@ -1,0 +1,3 @@
+/Users/marcelraab/Desktop/ProzPUe/Uebung 10/eurotest/cmake-build-debug/CMakeFiles/eurotest.dir
+/Users/marcelraab/Desktop/ProzPUe/Uebung 10/eurotest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcelraab/Desktop/ProzPUe/Uebung 10/eurotest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
