@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/06-bruchrechnung.iml" filepath="$PROJECT_DIR$/.idea/06-bruchrechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bruchrechnung.iml" filepath="$PROJECT_DIR$/.idea/bruchrechnung.iml" />
     </modules>
   </component>
 </project>

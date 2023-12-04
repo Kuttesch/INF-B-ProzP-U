@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/07-structs-loops.iml" filepath="$PROJECT_DIR$/.idea/07-structs-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/loops.iml" filepath="$PROJECT_DIR$/.idea/loops.iml" />
     </modules>
   </component>
 </project>

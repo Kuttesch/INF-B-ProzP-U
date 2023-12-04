@@ -1,3 +1,0 @@
-"E:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\bruchrechnung.dir/objects.a
-"E:\CLion 2023.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\bruchrechnung.dir/objects.a @CMakeFiles\bruchrechnung.dir\objects1.rsp
-"E:\CLion 2023.2.2\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\bruchrechnung.dir/objects.a -Wl,--no-whole-archive -o bruchrechnung.exe -Wl,--out-implib,libbruchrechnung.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bruchrechnung.dir\linkLibs.rsp
