@@ -1,0 +1,3 @@
+D:/Repos/INF-B-ProzP-U/08-guessing-game/cmake-build-debug/CMakeFiles/guessing-game.dir
+D:/Repos/INF-B-ProzP-U/08-guessing-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/INF-B-ProzP-U/08-guessing-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
