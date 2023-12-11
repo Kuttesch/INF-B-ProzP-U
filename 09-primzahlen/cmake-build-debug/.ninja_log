@@ -1,0 +1,19 @@
+# ninja log v5
+1	199	7240033900649814	CMakeFiles/prime-numbers.dir/prime.c.obj	dc51c4da659df9b7
+19	205	7240033900712602	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+11	207	7240033900742571	CMakeFiles/prime-numbers.dir/main.c.obj	17c245982d880ca4
+207	518	7240033903787915	prime-numbers.exe	20a3a462b7ab8e4d
+3	127	7240037046611535	CMakeFiles/prime-numbers.dir/prime.c.obj	dc51c4da659df9b7
+128	275	7240037048026915	prime-numbers.exe	20a3a462b7ab8e4d
+4	151	7240044451439145	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+151	353	7240044453404558	prime-numbers.exe	20a3a462b7ab8e4d
+3	138	7240047620038074	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+139	295	7240047621555656	prime-numbers.exe	20a3a462b7ab8e4d
+4	140	7240049867486792	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+140	306	7240049869089137	prime-numbers.exe	20a3a462b7ab8e4d
+3	154	7240051644766387	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+155	337	7240051646502663	prime-numbers.exe	20a3a462b7ab8e4d
+3	119	7240051913661686	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+119	271	7240051915102018	prime-numbers.exe	20a3a462b7ab8e4d
+3	126	7240053192347378	CMakeFiles/prime-numbers.dir/vectors.c.obj	504b12219480c4d2
+126	280	7240053193807388	prime-numbers.exe	20a3a462b7ab8e4d

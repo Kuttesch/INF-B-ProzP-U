@@ -1,0 +1,3 @@
+D:/Repos/INF-B-ProzP-U/09-primzahlen/cmake-build-debug/CMakeFiles/prime-numbers.dir
+D:/Repos/INF-B-ProzP-U/09-primzahlen/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/INF-B-ProzP-U/09-primzahlen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Repos/INF-B-ProzP-U/09-piraten/cmake-build-debug/CMakeFiles/piraten.dir
+D:/Repos/INF-B-ProzP-U/09-piraten/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/INF-B-ProzP-U/09-piraten/cmake-build-debug/CMakeFiles/rebuild_cache.dir
